@@ -87,6 +87,4 @@ Performs proactive threat hunting by identifying suspicious behavior, brute-forc
 
 B.Tech Computer Science Engineering (Cybersecurity)
 
-UPES Dehradun
-
 Aspiring SOC Analyst | Cybersecurity Enthusiast | Threat Hunter
